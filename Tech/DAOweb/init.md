@@ -1,0 +1,5 @@
+The DAO web is a set of standards that allows different DAO protocols to describe themselves in a unified fashion. This allows for increased discoverability and correlatability. An example of this might be describing a set of user actions (voting, claiming tokens, adding input, staking against something, enter into dispute, winning disputes, etc). …. Also talk about state, and link to that doc Cory was talking about...
+
+This would allow you to search for DAOs that have certain goals, expertise, activities, patterns. This type of “searchability” can help not only users and DAO agents, but also investment algorithms that want to find the best places to put their money. Or if someone is looking to be apart of the most vibrant development community working on their favorite topic, they would choose that one. Being able to search and curate DAOs on many different axioms.
+
+This also gives way to inter-protocol communication. If there’s a common set of expressions a DAO can be described by, DAO protocol developers can implement interop with the standard, and now they’re compliant with all DAOs in the world.
