@@ -1,14 +1,15 @@
-# Formal Verification And Full (safe) Semantics For DAOs
+# Study: Verifiable Semantics  
+Smart Contract Semantics that are Formally Verified.  
 
-## Problem:
+## Problem:  
+Smart Contract code isn't easily verifiable for simple semantic operations.  
 
-## Solution:
+## Solution:  
+Develop a toolchain for defining semantics and formally verifying them.  
 
-## Results:
+[Results](./results.md)  
 
-## Proposed Architecture:
-
-## Genesis Thought:
+## Genesis Thought:  
 Browse a DAO safely by: 
 1.  going to our tool (website or native app), 
 2. paste the DAO's address or ENS name,
@@ -20,4 +21,4 @@ To create this tool, we would use something like the K framework with EVM semant
 
 Then we could have the concept of a "safe" DAOs. This would be a DAO that is fully represented by our semantics (our building blocks on top of the K frameworks EVM semantics) and therefore also formally verified.
 
-## Counter Arguments:
+## Counter Arguments:  

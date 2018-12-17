@@ -1,3 +1,6 @@
+# Study: Local Everything  
+Enable a fluid dApp experience by running 'Everything' locally, with as few dependencies as possible.  
+
 ## Problem:
 Currently dApps are created with:
 * Language specific Smart Contract abstraction layers for reading / writing data. (Arc.js, Colony.js, etc)
@@ -13,14 +16,7 @@ A minimal architecture that enables:
 * On-device block data caching / querying (heap).
 * 3 layer data persistence: device, optional server, storage network (IPFS or Swarm). More on this (here)[../ScalableDataPersistence/topic.md].
 
-## Results:
-Next level applications that utilize trusted data. For example:
-* Collaboration Apps at an all new scale (Governance, Project Management, Communications, Documents, etc).
-* Automated AI banking on you phone. No more Banks, we all are Banks (Investing, Predicting, P2P Lending, Security, etc).
-* Video Games that utilize blockchain backed data (City Planning, Economics, Event Planning).
-
-## Proposed Architecture:
-[Explained Here](./prototype.md)
+[Results](./results.md)
 
 ## Genesis Thought:
 In talks with Bo, he asked (paraphrasing):
